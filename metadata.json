@@ -1,6 +1,0 @@
-{
-  "name": "RecoverPath",
-  "description": "GenAI-powered recovery & prevention platform providing zero-typing interventions, personalized emergency scripts, educational resources, and contextual safety tools for individuals and caregivers.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
